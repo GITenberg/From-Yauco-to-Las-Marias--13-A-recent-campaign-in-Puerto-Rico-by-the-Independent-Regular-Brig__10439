@@ -1,0 +1,25 @@
+_repo: From-Yauco-to-Las-Marias--13-A-recent-campaign-in-Puerto-Rico-by-the-Independent-Regular-Brig__10439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herrman, Karl Stephen
+    gutenberg_agent_id: '3535'
+    url: http://www.gutenberg.org/2009/agents/3535
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898 -- Puerto Rico'
+- !lcsh 'Puerto Rico -- History -- 1898-1952'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories'
+- GITenberg
+title: "From Yauco to Las Marias\r\nA recent campaign in Puerto Rico by the Independent\
+  \ Regular Brigade under the command of Brig. General Schwan"
+url: http://www.gutenberg.org/ebooks/10439
