@@ -1,11 +1,16 @@
 _repo: From-Yauco-to-Las-Marias--13-A-recent-campaign-in-Puerto-Rico-by-the-Independent-Regular-Brig__10439
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herrman, Karl Stephen
     gutenberg_agent_id: '3535'
     url: http://www.gutenberg.org/2009/agents/3535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10439#From-Yauco-to-Las-Marias--13-A-recent-campaign-in-Puerto-Rico-by-the-Independent-Regular-Brig_
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
